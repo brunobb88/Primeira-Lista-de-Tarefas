@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Lista de Tarefas</title>
+    <!--Conecta o arquivo css-->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="conteiner">
+        <header>
+            <h1>Minha Lista de Tarefas</h1>
+        </header>
+
+        <!--Formulário para adicionar nova tarefa-->
+        <form id="task-form">
+            <input type="text" id="task-input" placeholder="Digite uma nova tarefa..." required>
+            <button type="submit">Adicionar</button>
+        </form>
+
+        <!--A lista onde as tarefas vão aparecer-->
+        <ul id="task-list"></ul>
+    </div>
+
+    <!--Conecta o arquivo JavaScript NO FINAL do body-->
+    <script src="script.js"></script>
+</body>
+</html>
