@@ -28,7 +28,7 @@ Com este projeto, pratiquei e solidifiquei meus conhecimentos em:
 ## 🌐 Veja o Projeto em Funcionamento
 
 O projeto está hospedado gratuitamente no GitHub Pages:
-[🔗 Clique aqui para ver a lista de tarefas online!](https://brunobb88.github.io/Primeira-Lista_de-Tarefas/)
+[🔗 Clique aqui para ver a lista de tarefas online!](https://brunobb88.github.io/Primeira-Lista-de-Tarefas/)
 
 ## 📦 Como Executar Localmente
 
