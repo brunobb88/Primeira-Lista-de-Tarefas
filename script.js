@@ -1,4 +1,4 @@
-// script.js - VERSÃO CORRIGIDA E SIMPLIFICADA
+// script.js
 document.addEventListener('DOMContentLoaded', () => {
     // 1. "Pega" os elementos do HTML
     const taskForm = document.getElementById('task-form');
